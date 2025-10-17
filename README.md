@@ -47,7 +47,7 @@ Users should be able to:
 
 This project helped me strengthen my understanding of card layouts and responsive design using Flexbox and custom properties.
 
-- Continued development
+### Continued development
 In future projects, I want to focus more on:
 
 Using CSS Grid for more complex layouts
@@ -61,5 +61,5 @@ Frontend Mentor Community – Great for getting feedback and inspiration.
 - Frontend Mentor – @Gbagamsyle
 - GitHub – @https://github.com/Gbagamsyle
 
-Acknowledgments
+### Acknowledgments
 Special thanks to the Frontend Mentor community for sharing helpful feedback and creative ideas.
