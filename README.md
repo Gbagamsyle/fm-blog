@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - **Solution URL:** [https://www.frontendmentor.io/solutions/blog-preview-card-with-html-and-css-flexbox](#)
-- **Live Site URL:** [https://yourusername.github.io/blog-preview-card/](#)
+- **Live Site URL:** (https://gbagamsyle.github.io/fm-blog/)
 
 ---
 
@@ -57,7 +57,7 @@ MDN - CSS Box Shadow – Helped me fine-tune the shadow effect.
 Frontend Mentor Community – Great for getting feedback and inspiration.
 
 ### Author
-- Website - (https://www.your-site.com)
+- Website - (https://gbagamsyle.github.io/fm-blog/)
 - Frontend Mentor – @Gbagamsyle
 - GitHub – @https://github.com/Gbagamsyle
 
